@@ -1,3 +1,5 @@
+![Test](https://github.com/zhuchar/starter-web/workflows/Unit%20tests/badge.svg)
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
